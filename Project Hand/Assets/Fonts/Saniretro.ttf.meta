@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dfa42c00c5fc8384cba5349b9664ac29
+timeCreated: 1592652889
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Saniretro
+  fontNames:
+  - Saniretro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
